@@ -1,0 +1,1 @@
+Given problem can also be solved using other methos, as Hostogram backprojection works best with monochromic objects, it can be applied to multi-color object as in the given problem but still, needs a little bit of extra work.
