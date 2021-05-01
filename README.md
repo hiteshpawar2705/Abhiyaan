@@ -4,6 +4,8 @@
 
 **Roll No:** ME18B161
 
+**Whatsapp No:** 9579878711
+
 
 **Previous Experience:**
 
@@ -74,6 +76,6 @@ Online:
 
 **Navigation**
 
-Weather can adversely effect our sensor data, camera sensors face the most impact due to bad weather condition, so for the firsst step we should use more than one sensors to receive data, that we already do, but we aslo should include sensors which are less likely to get effected by these conditions, such as radar, ultrasonic senors, we can also use LIDAR but it's high cost is a negative point for it.
+Weather can adversely effect our sensor data, camera sensors face the most impact due to bad weather condition, so for the first step we should use more than one sensors to receive data, that we already do, but we aslo should include sensors which are less likely to get effected by these conditions, such as radar, ultrasonic senors, we can also use LIDAR but it's high cost is a negative point for it.
 
-Along with this, we can also use locad 3D map generation along with the gps and IMU sensors, and various collision avoidance techniques to make sure of robots safety. As well as we can train the robot in harsh conditions to make it more robost to these situations, many more solutions are possible, like taking benefit of the surrounding environment to navigate, use more robust sensors, and much more.
+Along with this, we can also use local 3D map generation along with the gps and IMU sensors, and various collision avoidance techniques to make sure of robot's safety. We can train the robot in harsh conditions as well, to make it more robost to these situations, many more solutions are possible, like taking benefit of the surrounding environment to navigate, use more robust sensors, and much more.
